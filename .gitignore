@@ -1,0 +1,10 @@
+captcha/*.jpg
+uploads/*.*
+uploads/**/*.*
+.settings
+.project
+.buildpath
+.classpath
+test-output
+target
+build
